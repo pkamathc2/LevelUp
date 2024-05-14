@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 5;
-				PRODUCT_BUNDLE_IDENTIFIER = com.pramod.levelup;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pramod.xccpramod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Test Pramod Universal";
@@ -328,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 5;
-				PRODUCT_BUNDLE_IDENTIFIER = com.pramod.levelup;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pramod.xccpramod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Test Pramod Universal";
